@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
 
 "[SQIsign2D-West: The Fast, the Small, and the Safer](https://eprint.iacr.org/2024/760)", with Andrea Basso, Pierrick Dartois, Luca De Feo, Antonin Leroux, Giacomo Pope, Damien Robert, and Benjamin Wesolowski. Advances in Cryptology - ASIACRYPT 2024.
 

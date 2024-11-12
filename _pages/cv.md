@@ -4,6 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+{% include base_path %}
 
 Contact me for a copy of my CV.
 

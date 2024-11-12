@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+{% include base_path %}
 
 [25th Workshop on Elliptic Curve Cryptography, Taipei, Taiwan, 30 Oct - 1 Nov, 2024 (invited speaker).](https://troll.iis.sinica.edu.tw/ecc24/index.shtml)
 
