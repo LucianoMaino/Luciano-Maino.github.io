@@ -20,7 +20,7 @@ author_profile: true
 
 "[Towards a Quantum-Resistant Weak Verifiable Delay Function](https://eprint.iacr.org/2023/1197)", with Thomas Decru, and Antonio Sanso. LATINCRYPT 2023. 
 
-"[A Direct Key Recovery Attack on SIDH](https://eprint.iacr.org/2023/640)", with Chloe Martindale, Lorenz Panny, Giacomo Pope, and Benjamin Wesolowski. EUROCRYPT 2023. **(Best Paper Honourable Mention)**
+"[A Direct Key Recovery Attack on SIDH](https://eprint.iacr.org/2023/640)", with Chloe Martindale, Lorenz Panny, Giacomo Pope, and Benjamin Wesolowski. EUROCRYPT 2023. (Best Paper Honourable Mention)
 
 "[A Review of Mathematical and Computational Aspects of CSIDH Algorithms](https://www.worldscientific.com/doi/10.1142/S0219498825300028?srsltid=AfmBOoq4pHDxS0NyrehniM6GUnxwbcaz0nIb_oShNcXIfnajiVxFEVnD)", with Marzio Mula, and Federico Pintore. Journal of Algebra and Its Applications, Special Issue on Recent Advancements in Coding Theory & Cryptography. (2023) 
 
