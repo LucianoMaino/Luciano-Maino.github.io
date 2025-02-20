@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+[Asiacrypt 2024, Kolkata, India, December 9-13, 2024](https://asiacrypt.iacr.org/2024/)
+
 [25th Workshop on Elliptic Curve Cryptography, Taipei, Taiwan, 30 Oct - 1 Nov, 2024 (invited speaker).](https://troll.iis.sinica.edu.tw/ecc24/index.shtml)
 
 [Recent Advances in Post-Quantum Cryptography 2024, Rome, 27 September, 2024 (invited speaker).](https://www.decifris.it/cifris24/readpqc24)
