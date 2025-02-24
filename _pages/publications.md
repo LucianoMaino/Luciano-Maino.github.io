@@ -10,7 +10,7 @@ author_profile: true
 
 "[Radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3](https://eprint.iacr.org/2024/1732)", with Sabrina Kunzweiler, Tomoki Moriya , Christophe Petit, Giacomo Pope, Damien Robert, Miha Stopar, and Yan Bo Ti. PKC 2025.
 
-"POKÉ: A Compact and Efficient PKE from Higher-dimensional Isogenies", with Andrea Basso. To appear in Eurocrypt 2025. 
+"[POKÉ: A Compact and Efficient PKE from Higher-dimensional Isogenies](https://eprint.iacr.org/2024/624)", with Andrea Basso. EUROCRYPT 2025. 
 
 "[SQIsign2D-West: The Fast, the Small, and the Safer](https://eprint.iacr.org/2024/760)", with Andrea Basso, Pierrick Dartois, Luca De Feo, Antonin Leroux, Giacomo Pope, Damien Robert, and Benjamin Wesolowski. ASIACRYPT 2024.
 
