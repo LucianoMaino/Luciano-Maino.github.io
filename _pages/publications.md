@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-"[PRISM: Simple And Compact Identification and Signatures From Large Prime Degree Isogenies](https://eprint.iacr.org/2025/135)", with Andrea Basso, Giacomo Borin, Wouter Castryck, Maria Corte-Real Santos, Riccardo Invernizzi, Antonin Leroux, Frederik Vercauteren, and Benjamin Wesolowski. PKC 2025.
+"[PRISM: Simple And Compact Identification and Signatures From Large Prime Degree Isogenies](https://eprint.iacr.org/2025/135)", with Andrea Basso, Giacomo Borin, Wouter Castryck, Maria Corte-Real Santos, Riccardo Invernizzi, Antonin Leroux, Frederik Vercauteren, and Benjamin Wesolowski. PKC 2025. **(Best Paper Award)**
 
 "[Radical 2-isogenies and cryptographic hash functions in dimensions 1, 2 and 3](https://eprint.iacr.org/2024/1732)", with Sabrina Kunzweiler, Tomoki Moriya , Christophe Petit, Giacomo Pope, Damien Robert, Miha Stopar, and Yan Bo Ti. PKC 2025.
 
